@@ -30,9 +30,14 @@ export const About = () => {
             <h3 className="color_sec py-4">{dataabout.title}</h3>
           </Col>
           <Col lg="7" className="d-flex align-items-center">
-            <div>
-              <p>{dataabout.aboutme}</p>
-            </div>
+          <div>
+                    <p>{dataabout.aboutme.split('\n').map((line, index) => (
+                        <React.Fragment key={index}>
+                            {line}
+                            <br />
+                        </React.Fragment>
+                    ))}</p>
+                </div>
           </Col>
         </Row>
         <Row className=" sec_sp">
