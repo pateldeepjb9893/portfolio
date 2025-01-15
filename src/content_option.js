@@ -10,7 +10,7 @@ const introdata = {
         first: "I love coding",
         second: "I code websites",
         third: "I develop back end applications",
-        fourth: "I currently work as an automatio engineer"
+        fourth: "I currently work as an automation engineer"
     },
     description: "I am currently working as an Automation Engineer with over four years of experience specializing in test automation using Selenium and Java. Alongside my expertise in automation frameworks and CI/CD integration, I have a strong capability in both front-end and back-end development. I am skilled in building efficient user interfaces and robust server-side logic, ensuring seamless, high-quality software solutions. My diverse technical background allows me to contribute to full-stack development and quality assurance for scalable, reliable products.",
 };
@@ -147,9 +147,9 @@ const contactConfig = {
 };
 
 const socialprofils = {
-    github: "https://github.com",
+    github: "https://github.com/pateldeepjb9893",
     facebook: "https://facebook.com",
-    linkedin: "https://linkedin.com",
+    linkedin: "https://www.linkedin.com/in/deeppatel9893/",
     twitter: "https://twitter.com",
 };
 export {
