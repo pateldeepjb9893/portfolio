@@ -28,7 +28,7 @@ export const Resume = () => {
         >
           Download Resume
         </a>
-        <div class="resume-box">
+        <div className="resume-box">
           <iframe
             src="dataForDeep/Deep_Resume.pdf"
             title="Resume"
@@ -38,7 +38,7 @@ export const Resume = () => {
               width: '100%',
               height: '100%',
               border: 'none',
-              overflow: 'scroll',  /* Ensures scrolling on small screens */
+              display: 'block',
             }}
           ></iframe>
         </div>
