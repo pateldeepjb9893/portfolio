@@ -32,11 +32,13 @@ export const Resume = () => {
           <iframe
             src="dataForDeep/Deep_Resume.pdf"
             title="Resume"
+            scrolling="yes"
             allowfullscreen="true"
             style={{
               width: '100%',
               height: '100%',
               border: 'none',
+              overflow: 'scroll',  /* Ensures scrolling on small screens */
             }}
           ></iframe>
         </div>
