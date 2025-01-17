@@ -28,11 +28,16 @@ export const Resume = () => {
         >
           Download Resume
         </a>
-        <div className="resume-box">
+        <div class="resume-box">
           <iframe
             src="dataForDeep/Deep_Resume.pdf"
-            title="Resume Preview"
-            className="resume-preview"
+            title="Resume"
+            allowfullscreen="true"
+            style={{
+              width: '100%',
+              height: '100%',
+              border: 'none',
+            }}
           ></iframe>
         </div>
       </div>
