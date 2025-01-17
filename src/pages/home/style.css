@@ -15,12 +15,12 @@ section {
     color: var(--primary-color);
 }
 
-.btn-portfolio {
+.btn-resume {
     background: var(--primary-color);
     border-radius: 0;
 }
 
-.btn-portfolio a {
+.btn-resume a {
     color: #000;
     text-decoration: none;
 }
