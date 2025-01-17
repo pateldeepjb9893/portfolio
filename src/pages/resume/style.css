@@ -43,31 +43,41 @@
 }
 
 .resume-box {
-    border: 2px solid #fff;
-    border-radius: 5px;
-    overflow: auto;
-    height: 700px;
-    width: 90%;
-    max-width: 800px;
-    margin: 0 auto;
-    padding: 20px;
-    box-sizing: border-box;
-    background-color: #f9f9f9;
-  }
+  border: 2px solid #fff; /* White border */
+  border-radius: 5px;
+  overflow: auto; /* Allow scrolling */
+  height: 100vh; /* Full viewport height */
+  width: 90%; /* Responsive width */
+  max-width: 800px; /* Max width for larger screens */
+  margin: 0 auto; /* Center horizontally */
+  padding: 20px;
+  box-sizing: border-box;
+  background-color: #f9f9f9;
+}
 
-  @media (max-width: 768px) {
-    .resume-box {
-      height: 400px;
-      padding: 15px;
-    }
+/* Adjustments for tablets */
+@media (max-width: 768px) {
+  .resume-box {
+    height: 400px; /* Reduced height */
+    padding: 10px;
   }
-  
-  @media (max-width: 480px) {
-    .resume-box {
-      height: 300px;
-      padding: 10px;
-    }
+}
+
+/* Adjustments for phones */
+@media (max-width: 480px) {
+  .resume-box {
+    height: 300px; /* Compact height */
+    padding: 5px;
   }
+}
+
+/* Ensure the iframe content is scrollable */
+.resume-box iframe {
+  width: 100%;
+  height: 100%;
+  border: none;
+}
+
   
 
   .resume-preview {
