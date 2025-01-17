@@ -248,9 +248,9 @@ const contactConfig = {
 
 const socialprofils = {
     github: "https://github.com/pateldeepjb9893",
-    facebook: "https://facebook.com",
     linkedin: "https://www.linkedin.com/in/deeppatel9893/",
-    twitter: "https://twitter.com",
+    instagram: "https://www.instagram.com/deep_j_9893/",
+    snapchat: "https://snapchat.com/t/3Z31nXob"
 };
 export {
     meta,
