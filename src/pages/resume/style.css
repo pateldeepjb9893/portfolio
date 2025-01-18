@@ -45,7 +45,7 @@
 .resume-box {
   border: 2px solid #fff; /* White border */
   border-radius: 5px;
-  overflow: hidden; /* By default, no overflow */
+  overflow: hidden; /* Ensures PDF content is fully visible */
   width: 100%;
   height: 100vh; /* Take full viewport height */
   margin: 0 auto; /* Center horizontally */
