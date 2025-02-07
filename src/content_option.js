@@ -48,7 +48,7 @@ const worktimeline = [{
 
 const skills = [{
     name: "Python",
-    value: 90,
+    value: 60,
 },
 {
     name: "Java",
@@ -56,7 +56,7 @@ const skills = [{
 },
 {
     name: "SQL",
-    value: 80,
+    value: 70,
 },
 {
     name: "GQL",
@@ -80,7 +80,7 @@ const skills = [{
 },
 {
     name: "Karate",
-    value: 65,
+    value: 70,
 },
 {
     name: "JMeter",
@@ -88,7 +88,7 @@ const skills = [{
 },
 {
     name: "Postman",
-    value: 90,
+    value: 80,
 },
 {
     name: "Manual Testing",
@@ -132,11 +132,7 @@ const skills = [{
 },
 {
     name: "JavaScript",
-    value: 80,
-},
-{
-    name: "HTML",
-    value: 85,
+    value: 70,
 },
 {
     name: "JIRA",
