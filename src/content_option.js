@@ -72,7 +72,15 @@ const skills = [{
 },
 {
     name: "Jenkins",
-    value: 85,
+    value: 70,
+},
+{
+    name: "Kubernetes",
+    value: 50,
+},
+{
+    name: "Docker",
+    value: 50,
 },
 {
     name: "Karate",
@@ -142,19 +150,27 @@ const skills = [{
     name: "AWS Cloud Practitioner",
     value: 70,
 },
+{
+    name: "HTML5",
+    value: 60,
+},
+{
+    name: "CSS3",
+    value: 60,
+},
+{
+    name: "ReactJS",
+    value: 60,
+},
+{
+    name: "TypeScript",
+    value: 70,
+}
 ];
 
 const services = [{
-        title: "UI & UX Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
-    },
-    {
-        title: "Mobile Apps",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
-    },
-    {
-        title: "Wordpress Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        title: "SpringBoot",
+        description: "Developed RESTful services and microservices using Spring Boot, ensuring efficient API integrations and optimized system performance.",
     },
 ];
 
