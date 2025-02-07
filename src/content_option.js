@@ -37,12 +37,12 @@ const worktimeline = [{
     {
         jobtitle: "Software Developer",
         where: "TCS - TATA Consultacy Services",
-        date: "12/2020 - 03/2021",
+        date: "December-2020 - March-2021",
     },
     {
         jobtitle: "Intern",
         where: "Elite RF",
-        date: "05/2020 - 08/2020",
+        date: "May-2020 - August-2020",
     },
 ];
 
