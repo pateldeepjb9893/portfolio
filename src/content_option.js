@@ -17,37 +17,21 @@ const introdata = {
 
 const dataabout = {
     title: "A bit about my self",
-    aboutme: `• Over 4+ years of IT experience as a QA Tester in Manual plus Automation and POS testing of business applications.
-
-• Experience in (SDLC) Software Development Life Cycle & (STLC) Software Testing Life Cycle with significant responsibilities in all phases.
-
-• Experienced in project management methodologies - Agile, Waterfall, and Iterative.
-
-• Extensive experience writing test plans, test cases, test scenarios, status reports, metrics, and defining standards for all QA documentation and QA processes.
-
-• Experience in test strategies like Integration testing, Accessibility Testing, System Testing, Acceptance Testing, Functional Testing, Usability Testing, Smoke Testing, Positive and negative Testing, User Acceptance Testing, Regression Testing etc.
-
-• Expert in designing and executing Test Cases, Test Scenarios, Test Data, and Test matrices.
-
-• Extensive experience in creating and writing database queries for data validation. Also, I have experience designing and writing graph queries for data validation.
-
-• Experience implementing Quality Center (HP ALM) for test planning, test case development, test case execution, Test Set execution, and test results analysis.
-
-• Proficient in creating Test cases, Test procedures, and Test Plans based on Business Requirements, Test schedule planning, and Execution.
-
-• Expert in defect-tracking and using bug reporting tools like ALM, JIRA, and QC for reporting bugs to developers. Well-versed in the complete process of executing the Test Scripts and Bug Reports.
-
-• Able to analyze complex business rules and specifications, strong analytical and troubleshooting skills.
-
-• Organized, able to manage multiple tasks and meet deadlines, efficient in working independently or in a team, self-motivated, eager to learn new concepts and products quickly.
-
-• Experienced in QA/Testing with Windows/UNIX Environment and web-based environment.
-
-• Dedicated and results-driven QA Automation Engineer with a proven track record of optimizing software testing processes by implementing robust automated testing frameworks.
-
-• With three years of hands-on experience, I have successfully designed, developed, and executed automated test scripts, significantly reducing manual testing efforts, and improving overall software quality.
-
-• Excellent interpersonal skills working closely with development, product management, business representatives, customers, and technical support teams to ensure that the quality objectives of all projects`,
+    aboutme: `To work in a challenging work environment that provides an opportunity to learn, progress and contribute to the organization. This will help me to build a long-term career in information technology with opportunities for career growth.
+➢
+4+ Year of experience as a T shaped SDET developer.
+➢
+Involved in requirement analysis, design, development, testing of application using Agile methodology.
+➢
+Strong understanding of Algorithms and Data Structures.
+➢
+Good knowledge over front-end technologies like HTML5, CSS3, JavaScript, JQuery, TypeScript, and ReactJS.
+➢
+Passionate about coding and problem solving to build scalable solutions to complex problems.
+➢
+Quick learner, highly motivated team player with analytical and technical skills to the optimal.
+➢
+Optimizing software testing processes by implementing robust automated testing frameworks.`,
 };
 const worktimeline = [{
         jobtitle: "Software Engineer II",
@@ -55,12 +39,12 @@ const worktimeline = [{
         date: "March-2021 to Current",
     },
     {
-        jobtitle: "QA Test Engineer",
+        jobtitle: "Software Developer",
         where: "TCS - TATA Consultacy Services",
-        date: "11/2020 - 03/2021",
+        date: "12/2020 - 03/2021",
     },
     {
-        jobtitle: "Intern - Rotation Program",
+        jobtitle: "Intern",
         where: "Elite RF",
         date: "05/2020 - 08/2020",
     },
@@ -88,7 +72,15 @@ const skills = [{
 },
 {
     name: "Jenkins",
-    value: 85,
+    value: 70,
+},
+{
+    name: "Kubernetes",
+    value: 50,
+},
+{
+    name: "Docker",
+    value: 50,
 },
 {
     name: "Karate",
@@ -158,19 +150,27 @@ const skills = [{
     name: "AWS Cloud Practitioner",
     value: 70,
 },
+{
+    name: "HTML5",
+    value: 60,
+},
+{
+    name: "CSS3",
+    value: 60,
+},
+{
+    name: "ReactJS",
+    value: 60,
+},
+{
+    name: "TypeScript",
+    value: 70,
+}
 ];
 
 const services = [{
-        title: "UI & UX Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
-    },
-    {
-        title: "Mobile Apps",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
-    },
-    {
-        title: "Wordpress Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        title: "SpringBoot",
+        description: "Developed RESTful services and microservices using Spring Boot, ensuring efficient API integrations and optimized system performance.",
     },
 ];
 
