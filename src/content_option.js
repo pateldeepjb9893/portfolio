@@ -18,20 +18,16 @@ const introdata = {
 const dataabout = {
     title: "A bit about my self",
     aboutme: `To work in a challenging work environment that provides an opportunity to learn, progress and contribute to the organization. This will help me to build a long-term career in information technology with opportunities for career growth.
-➢
-4+ Year of experience as a T shaped SDET developer.
-➢
-Involved in requirement analysis, design, development, testing of application using Agile methodology.
-➢
-Strong understanding of Algorithms and Data Structures.
-➢
-Good knowledge over front-end technologies like HTML5, CSS3, JavaScript, JQuery, TypeScript, and ReactJS.
-➢
-Passionate about coding and problem solving to build scalable solutions to complex problems.
-➢
-Quick learner, highly motivated team player with analytical and technical skills to the optimal.
-➢
-Optimizing software testing processes by implementing robust automated testing frameworks.`,
+➢ 4+ Year of experience as a T shaped SDET developer.
+➢ Involved in requirement analysis, design, development, testing of application using Agile methodology.
+➢ Strong understanding of Algorithms and Data Structures.
+➢ Good knowledge over front-end technologies like HTML5, CSS3, JavaScript, JQuery, TypeScript, and ReactJS.
+➢ Passionate about coding and problem solving to build scalable solutions to complex problems.
+➢ Quick learner, highly motivated team player with analytical and technical skills to the optimal.
+➢ Optimizing software testing processes by implementing robust automated testing frameworks.
+➢ Experience in (SDLC) Software Development Life Cycle & (STLC) Software Testing Life Cycle with significant responsibilities in all phases.
+➢ Experience in test strategies like Integration testing, Accessibility Testing, System Testing, Acceptance Testing, Functional Testing, Usability Testing, Smoke Testing, Positive and negative Testing, User Acceptance Testing, Regression Testing etc.
+➢ With three years of hands-on experience, I have successfully designed, developed, and executed automated test scripts, significantly reducing manual testing efforts, and improving overall software quality.`,
 };
 const worktimeline = [{
         jobtitle: "Software Engineer II",
