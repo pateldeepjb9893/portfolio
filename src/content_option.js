@@ -240,7 +240,7 @@ const contactConfig = {
 
 const socialprofils = {
     github: "https://github.com/pateldeepjb9893",
-    linkedin: "https://www.linkedin.com/in/deeppatel9893/",
+    linkedin: "https://www.linkedin.com/in/deep-patel-976779368",
     instagram: "https://www.instagram.com/deep_j_9893/",
     snapchat: "https://snapchat.com/t/3Z31nXob"
 };
